@@ -35,7 +35,7 @@ header {
     justify-content: space-between;
     align-items: center;
     height: 60px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 header .logo {
@@ -65,32 +65,17 @@ header a:hover {
 }
 
 
-/* Hero Section */
-.hero {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 0 20px;
-    background: linear-gradient(rgba(230, 245, 223, 0.8), rgba(230, 245, 223, 0.8));
+
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 25px;
+    color: #234B11;
+    padding: 15px 30px;
+    letter-spacing: 2px;
 }
 
-.hero h1 {
-    font-size: 4rem;
-    margin-bottom: 20px;
-    color: #234B11;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-}
 
-.hero p {
-    font-size: 1.5rem;
-    max-width: 800px;
-    margin-bottom: 40px;
-    color: #234B11;
-}
 
 .scroll-down {
     display: inline-block;
@@ -219,4 +204,3 @@ footer {
     text-align: center;
     padding: 30px;
 }
-
