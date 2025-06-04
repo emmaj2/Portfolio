@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 113.55 148.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #312783;
+      }
+
+      .cls-2 {
+        fill: #f2eeae;
+      }
+    </style>
+    <symbol id="LOGO_BLEU_JAUNE" data-name="LOGO BLEU JAUNE" viewBox="0 0 113.55 148.15">
+      <g>
+        <path class="cls-2" d="M86.74,44.11c-14.32-11.14-9.83-21.81-27.8-24.26-17.97-2.45-16.28,5.27-31.57,15.03-14.95,9.54-21.19,4.88-26.08,21.93-4.89,17.05,5.38,16.83,10.98,33.65,4.7,14.09-2.62,20.16,10.35,27.39,12.98,7.23,16.51-6.08,31.37-5.92,15.8.17,18.86,13.71,33.06,6.77s7.21-13.73,13.73-28.13,15.95-13.32,11.74-28.24c-3.61-12.76-13.54-8.72-25.77-18.23Z"/>
+        <polygon class="cls-1" points="20.62 51.93 92.01 51.93 58.98 58.12 57.54 148.15 51.18 58.8 20.62 51.93"/>
+        <polygon class="cls-1" points="56.31 30.7 81.09 122.85 58.29 0 31.54 97.79 56.31 30.7"/>
+      </g>
+    </symbol>
+  </defs>
+  <g id="PAGE_1" data-name="PAGE 1">
+    <use width="113.55" height="148.15" xlink:href="#LOGO_BLEU_JAUNE"/>
+  </g>
+</svg>
